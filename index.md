@@ -11,6 +11,8 @@ Cell/Molecular Biology PhD Candidate | Graduate Research Assistant at University
 | (301) 302-5626 
 </div>
 
+--- 
+
 
 ## Education
 
@@ -49,7 +51,7 @@ __Graduate Research Assistant__
 `Spring 2018-May 2021`
 __Undergraduate Research Assistant__
 - *Dr. Leonard Pysh, Department of Biology, Roanoke College, Salem, VA*
-- Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for *A. thaliana*.
+- Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
 ### Conference Presentations:
 `May 2024`
@@ -67,14 +69,14 @@ __Astyanax International Meeting for Cavefish__
 `May 2023`
 __Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
 - *National Institute of Health (NIH), Bethesda, MD*
-> Upstream regulation and downstream processing of Tbx2 paralogs diverge in function within a single cell to contribute to final fate decisions
+-  Upstream regulation and downstream processing of Tbx2 paralogs diverge in function within a single cell to contribute to final fate decisions
 - **Poster**: Characterizing Functionally Distinct Roles of Tbx2 Paralogs in Final UV Cone Specification
 - Coauthor: Juan Angueyra 
 
 `March 2023`
 __American Association for the Advancement of Science (AAAS)__
 - *Washington, DC.*
-> Independently attended workshops on governmental fellowships, scientific communication, journalism, and grant writing. 
+- Independently attended workshops on governmental fellowships, scientific communication, journalism, and grant writing. 
 
 `May 2021`
 __University of Missouri__
@@ -94,16 +96,16 @@ __FASEB Meeting on Plant Development__
 `2024`
 __Teaching and Learning Transformation Center (TLTC Workshops):__
 > Attended 2 workshops for mentoring and teaching resources.
-    - Decentering Whiteness
-    - Getting Started with Your Teaching Philosophy Statement 
+ - Decentering Whiteness
+ - Getting Started with Your Teaching Philosophy Statement 
 
 `October 2022`
 __Mentoring Workshop for Graduate Students & Postdoctoral Fellows__
 > Independently attended four workshops for mentoring resources and guidance. 
-    - Introductions and Maintaining Effective Communication
-    - Aligning Expectations and Assessing Understanding
-    - Addressing Equity and Inclusion
-    - Fostering Independence and Promoting Professional Development 
+ - Introductions and Maintaining Effective Communication
+ - Aligning Expectations and Assessing Understanding
+ - Addressing Equity and Inclusion
+- Fostering Independence and Promoting Professional Development 
 
 ## Honors/Awards
 
