@@ -23,7 +23,7 @@ __University of Maryland, College Park, MD__
 `August 2017 - May 2021`
 __Roanoke College, Salem, VA__
 - B.S. in Biology 
-- GPA: 3.797, *magna cum laude*
+- GPA: 3.797, *magna cum laude* <em>magna cum laude</em>
 
 `2013-2017`
 __Barbara Ingram School for the Arts__
@@ -81,14 +81,14 @@ __American Association for the Advancement of Science (AAAS)__
 `May 2021`
 __University of Missouri__
 - *Online*
-> Exposure of light to developing roots results in upregulation of monolignol biosynthesis genes in Arabidopsis thaliana. 
+- Exposure of light to developing roots results in upregulation of monolignol biosynthesis genes in Arabidopsis thaliana. 
 - **Poster**: Monolignol Gene Expression of Arabidopsis thaliana Root Cells Grown in the Dark
 - Coauthor: Leonard Pysh
 
 `Summer 2019`
 __FASEB Meeting on Plant Development__
 - *Olean, NY*
-> Cellulose deficiency causes an upregulation of monolignol biosynthesis genes in the Arabidopsis thaliana. 
+- Cellulose deficiency causes an upregulation of monolignol biosynthesis genes in the Arabidopsis thaliana. 
 - **Poster**: Role for Monolignol Synthesis in the Expanded Root Phenotype of Cellulose-Deficient Arabidopsis thaliana Mutants
 - Authors: Leonard Pysh, Matthew Watts, **Carinna Householder**, and Frankie Sefcik
 
