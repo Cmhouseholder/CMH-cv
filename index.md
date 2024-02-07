@@ -8,7 +8,7 @@ Cell/Molecular Biology PhD Candidate | Graduate Research Assistant at University
 <div id="webaddress">
 <a href="chouseho@umd.edu">chouseho@umd.edu</a>
 | <a href="https://www.linkedin.com/in/carinna-householder/">LinkedIn</a>
-| (301) 302-5626 | 
+| (301) 302-5626 
 </div>
 
 
@@ -24,7 +24,9 @@ __Roanoke College, Salem, VA__
 - GPA: 3.797, *magna cum laude*
 
 `2013-2017`
-__Barbara Ingram School for the Arts.__
+__Barbara Ingram School for the Arts__
+- High School Diploma 
+- GPA: 3.8, *High Honors*
 
 ## Relevant Coursework
 
@@ -34,57 +36,56 @@ Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologist
 
 `Jan 2023-Present`
 __Graduate Research Assistant__
- *Dr. Juan Angueyra-Artizabal, Department of Biology, University of Maryland, College Park, MD*
+ - *Dr. Juan Angueyra-Artizabal, Department of Biology, University of Maryland, College Park, MD*
 - Characterized the transcriptional regulation of retinal progenitor cells mediated through two transcription factors, tbx2a & tbx2b in Danio rerio. 
 
 `Jan 2022-December 2023 `
 __Graduate Research Assistant__
-*Dr. William R Jeffery, Department of Biology, University of Maryland, College Park, MD*
+- *Dr. William R Jeffery, Department of Biology, University of Maryland, College Park, MD*
 - Analyzed the effects of hypoxia on the reversal of visceral heart asymmetry during early development in *Astyanax mexicanus*. 
 
 
 
 `Spring 2018-May 2021`
 __Undergraduate Research Assistant__
-*Dr. Leonard Pysh, Department of Biology, Roanoke College, Salem, VA*
+- *Dr. Leonard Pysh, Department of Biology, Roanoke College, Salem, VA*
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for *A. thaliana*.
 
 ### Conference Presentations:
 `May 2024`
 __Visual System Development Gordon Research Conference__
-*Lucca (Barga), Italy*
+- *Lucca (Barga), Italy*
 - **Poster**: Transcriptional regulation creates diversity within UV cone photoreceptors   
 - Coauthor: Juan Angueyra
 
 `April 2024`
 __Astyanax International Meeting for Cavefish__
-*Fort Lauderdale, Florida*
+- *Fort Lauderdale, Florida*
 - **Talk**: Hypoxia as a driver of Sonic Hedgehog dependent trait evolution in Astyanax cavefish
 - Authors: William R. Jeffery, Helena Bilandžija, **Carinna Householder**, Mandy Ng, and Corine van der Weele
 
 `May 2023`
 __Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
-*National Institute of Health (NIH), Bethesda, MD*
-- **Talk**: Hypoxia as a driver of Sonic Hedgehog dependent trait evolution in Astyanax cavefish
+- *National Institute of Health (NIH), Bethesda, MD*
 > Upstream regulation and downstream processing of Tbx2 paralogs diverge in function within a single cell to contribute to final fate decisions
 - **Poster**: Characterizing Functionally Distinct Roles of Tbx2 Paralogs in Final UV Cone Specification
 - Coauthor: Juan Angueyra 
 
 `March 2023`
 __American Association for the Advancement of Science (AAAS)__
-*Washington, DC.*
+- *Washington, DC.*
 > Independently attended workshops on governmental fellowships, scientific communication, journalism, and grant writing. 
 
 `May 2021`
 __University of Missouri__
-*Online*
+- *Online*
 > Exposure of light to developing roots results in upregulation of monolignol biosynthesis genes in Arabidopsis thaliana. 
 - **Poster**: Monolignol Gene Expression of Arabidopsis thaliana Root Cells Grown in the Dark
 - Coauthor: Leonard Pysh
 
 `Summer 2019`
 __FASEB Meeting on Plant Development__
-*Olean, NY*
+- *Olean, NY*
 > Cellulose deficiency causes an upregulation of monolignol biosynthesis genes in the Arabidopsis thaliana. 
 - **Poster**: Role for Monolignol Synthesis in the Expanded Root Phenotype of Cellulose-Deficient Arabidopsis thaliana Mutants
 - Authors: Leonard Pysh, Matthew Watts, **Carinna Householder**, and Frankie Sefcik
@@ -93,16 +94,16 @@ __FASEB Meeting on Plant Development__
 `2024`
 __Teaching and Learning Transformation Center (TLTC Workshops):__
 > Attended 2 workshops for mentoring and teaching resources.
-- Decentering Whiteness
-- Getting Started with Your Teaching Philosophy Statement 
+    - Decentering Whiteness
+    - Getting Started with Your Teaching Philosophy Statement 
 
 `October 2022`
 __Mentoring Workshop for Graduate Students & Postdoctoral Fellows__
 > Independently attended four workshops for mentoring resources and guidance. 
-- Introductions and Maintaining Effective Communication
-- Aligning Expectations and Assessing Understanding
-- Addressing Equity and Inclusion
-- Fostering Independence and Promoting Professional Development 
+    - Introductions and Maintaining Effective Communication
+    - Aligning Expectations and Assessing Understanding
+    - Addressing Equity and Inclusion
+    - Fostering Independence and Promoting Professional Development 
 
 ## Honors/Awards
 
@@ -119,7 +120,7 @@ Member, **National Honor Society for First-Generation College Students** (Tri-Al
 Member, **Omicron Delta Kappa**
 
 `2020`
-Member, Biological Honors Society
+Member, **Biological Honors Society**
 
 `2019`
 Member, **Alpha Epsilon Delta**
@@ -137,35 +138,8 @@ Women in Bio (WIB), Graduate Student Association for Biological Sciences (GSA): 
 
 
 ## Publications
+Coming Soon...
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
