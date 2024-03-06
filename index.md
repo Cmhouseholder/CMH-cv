@@ -35,7 +35,7 @@ Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologist
 `2023-Present`
 __Graduate Research Assistant__
  - *Dr. Juan Angueyra-Artizabal, Department of Biology, University of Maryland, College Park, MD*
-- Characterized the transcriptional regulation of retinal progenitor cells mediated through two transcription factors, tbx2a & tbx2b in Danio rerio. 
+- Characterized the transcriptional regulation of retinal progenitor cells mediated through two transcription factors, _tbx2a_ & _tbx2b_ in Danio rerio. 
 
 `2022-2023 `
 __Graduate Research Assistant__
@@ -139,7 +139,7 @@ Member, **National Honor Society for First-Generation College Students** (Tri-Al
 President, **Omicron Delta Kappa**
 
 `2020`
-Member, **Biological Honors Society**
+Member, **Biological Honors Society** (Tri-Beta)
 
 `2019`
 Member, **Alpha Epsilon Delta**
@@ -154,7 +154,7 @@ __Women in Bio (WIB)__
 
 `2023`
 __All Things Biology Podcast__
-> Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my unique academic journey, experience working in various research labs, and delved into specific areas of interest including epigenetics, the structure of retina, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
+-  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my unique academic journey, experience working in various research labs, and delved into specific areas of interest including epigenetics, the structure of retina, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
 
 `2023`
 __American Association for the Advancement of Science (AAAS)__
