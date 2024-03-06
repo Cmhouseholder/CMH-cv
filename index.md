@@ -9,7 +9,7 @@ Cell/Molecular Biology PhD Candidate | Graduate Research Assistant at University
 <a href="chouseho@umd.edu">chouseho@umd.edu</a>
 | <a href="https://www.linkedin.com/in/carinna-householder/">LinkedIn</a>
 | (301) 302-5626 
-|  <a href="https://www.linkedin.com/in/carinna-householder/">ORCID</a>
+|  <a href="https://orcid.org/0000-0002-5783-6197">ORCID:  0000-0002-5783-6197</a>
 </div>
 
 --- 
