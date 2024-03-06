@@ -101,27 +101,27 @@ __FASEB Meeting on Plant Development__
 ## Workshops
 `2024`
 __Decentering Whiteness__
-Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
+- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
 
 `2024`
 __Getting Started with Your Teaching Philosophy Statement__
-Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
+- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
 
 `2022`
 __Introductions and Maintaining Effective Communication__
-*University of Maryland, College Park, MD*
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
 
 `2022`
 __Aligning Expectations and Assessing Understanding__
-*University of Maryland, College Park, MD*
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
 
 `2022`
 __Addressing Equity and Inclusion__
-*University of Maryland, College Park, MD*
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
 
 `2022`
 __Fostering Independence and Promoting Professional Development__
-*University of Maryland, College Park, MD*
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
 
 
 ## Honors/Awards
