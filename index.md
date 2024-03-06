@@ -49,7 +49,7 @@ __Undergraduate Research Assistant__
 - *Dr. Leonard Pysh, Department of Biology, Roanoke College, Salem, VA*
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
-### Conference Presentations:
+## Conference Presentations:
 `2024`
 __Visual System Development Gordon Research Conference__
 - *Lucca (Barga), Italy*
@@ -99,27 +99,27 @@ __FASEB Meeting on Plant Development__
 ## Workshops
 `2024`
 __Decentering Whiteness__
-Teaching and Learning Transformation Center, *University of Maryland College Park, MD*
+Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
 
 `2024`
 __Getting Started with Your Teaching Philosophy Statement__
-Teaching and Learning Transformation Center, *University of Maryland College Park, MD*
+Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
 
 `2022`
 __Introductions and Maintaining Effective Communication__
-*University of Maryland, College Park MD*
+*University of Maryland, College Park, MD*
 
 `2022`
 __Aligning Expectations and Assessing Understanding__
-*University of Maryland, College Park MD*
+*University of Maryland, College Park, MD*
 
 `2022`
 __Addressing Equity and Inclusion__
-*University of Maryland, College Park MD*
+*University of Maryland, College Park, MD*
 
 `2022`
 __Fostering Independence and Promoting Professional Development__
-*University of Maryland, College Park MD*
+*University of Maryland, College Park, MD*
 
 
 ## Honors/Awards
@@ -163,7 +163,7 @@ __American Association for the Advancement of Science (AAAS)__
 Graduate Student Association for Biological Sciences (GSA): *Secretary*
 
 `2022`
-Society for Developmental Biology(SDB): Member
+Society for Developmental Biology (SDB): Member
 
 
 ## Publications
