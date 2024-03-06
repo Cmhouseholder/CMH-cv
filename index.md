@@ -49,7 +49,9 @@ __Undergraduate Research Assistant__
 - *Dr. Leonard Pysh, Department of Biology, Roanoke College, Salem, VA*
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
+
 ## Conference Presentations:
+
 `2024`
 __Visual System Development Gordon Research Conference__
 - *Lucca (Barga), Italy*
