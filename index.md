@@ -161,10 +161,10 @@ __American Association for the Advancement of Science (AAAS)__
 - Independently attended workshops on governmental fellowships, scientific communication, journalism, and grant writing.
 
 `2023`
-Graduate Student Association for Biological Sciences (GSA): *Secretary*
+__Graduate Student Association for Biological Sciences (GSA):__ *Secretary*
 
 `2022`
-Society for Developmental Biology (SDB): Member
+__Society for Developmental Biology (SDB):__ Member
 
 
 ## Publications
