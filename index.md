@@ -33,7 +33,7 @@ Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologist
 
 `2023-Present`
 __Graduate Research Assistant__
- - *Dr. Juan Angueyra-Artizabal, Department of Biology, University of Maryland, College Park, MD*
+ - *Dr. Juan Angueyra, Department of Biology, University of Maryland, College Park, MD*
 - Characterized the transcriptional regulation of retinal progenitor cells mediated through two transcription factors, _tbx2a_ & _tbx2b_ in Danio rerio. 
 
 `2022-2023 `
