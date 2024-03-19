@@ -167,10 +167,6 @@ __Graduate Student Association for Biological Sciences (GSA):__ *Secretary*
 __Society for Developmental Biology (SDB):__ Member
 
 
-## Publications
-Coming Soon...
-
-
 
 
 <!-- ### Footer
