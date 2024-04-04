@@ -125,6 +125,12 @@ __Fostering Independence and Promoting Professional Development__
 
 ## Honors/Awards
 
+`2024` 
+Scholarship, **International Conference Student Support Award (ICSSA)**, University of Maryland - College Park 
+
+`2024` 
+Scholarship, **Jacob K. Goldhaber Travel Grant**, University of Maryland - College Park 
+
 `2021`
 Member, **Phi Beta Kappa**, Salem, VA
 
