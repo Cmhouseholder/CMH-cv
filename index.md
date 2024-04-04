@@ -150,7 +150,7 @@ Member, **Biological Honors Society** (Tri-Beta)
 Member, **Alpha Epsilon Delta**
 
 `2018`
-Scholarship, **Alpha Lambda Delta**
+Member, **Alpha Lambda Delta**
 
 
 ## Activities 
