@@ -58,6 +58,12 @@ __Visual System Development Gordon Research Conference__
 - Authors: **Carinna Householder**, Juan Angueyra
 
 `2024`
+__Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
+- *Rutgers University, New Brunswick, New Jersey*
+- **Poster**: Transcriptional regulation creates diversity within UV cone photoreceptors   
+- Authors: **Carinna Householder**, Juan Angueyra
+
+`2024`
 __Astyanax International Meeting for Cavefish__
 - *Fort Lauderdale, Florida*
 - **Talk**: Hypoxia as a driver of Sonic Hedgehog dependent trait evolution in Astyanax cavefish
