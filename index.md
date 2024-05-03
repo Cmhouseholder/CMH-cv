@@ -126,6 +126,9 @@ __Fostering Independence and Promoting Professional Development__
 ## Honors/Awards
 
 `2024` 
+ **Best Graduate Student Poster Award**, Mid-Atlantic Regional Zebrafish Meeting (MARZ), Rutgers University
+
+`2024` 
 Scholarship, **International Conference Student Support Award (ICSSA)**, University of Maryland - College Park 
 
 `2024` 
