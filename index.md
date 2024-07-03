@@ -29,7 +29,7 @@ __Roanoke College, Salem, VA__
 
 Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologists, Molecular Biology, Gene Expression, Evolution, General Physics, General Chemistry (I&II), Organic Chemistry (I&II), Biochemistry I, Genetic Analysis, Nucleic Acids I, Cell Biology: Structure and Function, Immunology, Tropical Marine Biology (Baja, Mexico). 
 
-## Research Experience: 
+## Research Experience
 
 `2023-Present`
 __Graduate Research Assistant__
@@ -49,7 +49,7 @@ __Undergraduate Research Assistant__
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
 
-## Conference Presentations:
+## Conference Presentations
 
 `2024`
 __Visual System Development Gordon Research Conference__
