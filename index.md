@@ -143,37 +143,37 @@ __Fostering Independence and Promoting Professional Development__
 ## Honors/Awards
 
 `2024` 
- **Best Graduate Student Poster Award**, Mid-Atlantic Regional Zebrafish Meeting (MARZ), Rutgers University
+ **Best Graduate Student Poster Award**, Mid-Atlantic Regional Zebrafish Meeting (MARZ), Rutgers University, NJ
 
 `2024` 
-Scholarship, **Biological Sciences (BISI) Travel Award**, University of Maryland - College Park 
+Scholarship, **Biological Sciences (BISI) Travel Award**, University of Maryland - College Park, MD
 
 `2024` 
-Scholarship, **International Conference Student Support Award (ICSSA)**, University of Maryland - College Park 
+Scholarship, **International Conference Student Support Award (ICSSA)**, University of Maryland - College Park, MD
 
 `2024` 
-Scholarship, **Jacob K. Goldhaber Travel Grant**, University of Maryland - College Park 
+Scholarship, **Jacob K. Goldhaber Travel Grant**, University of Maryland - College Park, MD
 
 `2021`
-Member, **Phi Beta Kappa**, Salem, VA
+Member, **Phi Beta Kappa**, Roanoke College, Salem, VA
 
 `2021`
 Member, **National Honor Society for First-Generation College Students** (Tri-Alpha)
 
 `2021`
-**Dr. George G. Peery Achievement Award**, Roanoke College.
+**Dr. George G. Peery Achievement Award**, Roanoke College, Salem, VA
 
 `2020` 	
-President, **Omicron Delta Kappa**
+President, **Omicron Delta Kappa**, Roanoke College, Salem, VA
 
 `2020`
-Member, **Biological Honors Society** (Tri-Beta)
+Member, **Biological Honors Society** (Tri-Beta), Roanoke College, Salem, VA
 
 `2019`
-Member, **Alpha Epsilon Delta**
+Member, **Alpha Epsilon Delta**, Roanoke College, Salem, VA
 
 `2018`
-Member, **Alpha Lambda Delta**
+Member, **Alpha Lambda Delta**, Roanoke College, Salem, VA
 
 
 ## Activities 
