@@ -182,7 +182,7 @@ Member, __Women in Bio (WIB)__
 
 `2023`
 __All Things Biology Podcast__
--  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my unique academic journey, experience working in various research labs, and delved into specific areas of interest including epigenetics, the structure of retina, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
+-  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my academic journey and experience working in research labs. Covered specific areas of interest including epigenetics, retinal organization and structure, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
 
 `2023`
 __American Association for the Advancement of Science (AAAS)__
