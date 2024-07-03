@@ -103,6 +103,17 @@ __FASEB Meeting on Plant Development__
 - **Poster**: Role for Monolignol Synthesis in the Expanded Root Phenotype of Cellulose-Deficient Arabidopsis thaliana Mutants
 - Authors: Leonard Pysh, Matthew Watts, **Carinna Householder**, and Frankie Sefcik
 
+## Teaching Experience 
+`2024`
+__Neurobiology Course: Synapses and Circuits (SYNC)__
+- *Marine Biological Labratory, Woods Hole, MA*
+- **Position**: Teaching Assistant
+
+`2021-2023`
+__Introductory to Principles of Cell and Molecular Biology__ 
+- *University of Maryland, College Park, MD* 
+- **Position**: Graduate Teaching Assistant
+
 ## Workshops
 `2024`
 __Decentering Whiteness__
@@ -167,7 +178,7 @@ Member, **Alpha Lambda Delta**
 
 ## Activities 
 `2024`
-__Women in Bio (WIB)__
+Member, __Women in Bio (WIB)__ 
 
 `2023`
 __All Things Biology Podcast__
@@ -179,10 +190,10 @@ __American Association for the Advancement of Science (AAAS)__
 - Independently attended workshops on governmental fellowships, scientific communication, journalism, and grant writing.
 
 `2023`
-__Graduate Student Association for Biological Sciences (GSA):__ *Secretary*
+*Secretary*, __Graduate Student Association for Biological Sciences (GSA)__ 
 
 `2022`
-__Society for Developmental Biology (SDB):__ Member
+Member, __Society for Developmental Biology (SDB)__
 
 
 
