@@ -158,7 +158,7 @@ Scholarship, **Jacob K. Goldhaber Travel Grant**, University of Maryland - Colle
 Member, **Phi Beta Kappa**, Roanoke College, Salem, VA
 
 `2021`
-Member, **National Honor Society for First-Generation College Students** (Tri-Alpha)
+Member, **National Honor Society for First-Generation College Students** (Tri-Alpha), Roanoke College, Salem, VA
 
 `2021`
 **Dr. George G. Peery Achievement Award**, Roanoke College, Salem, VA
