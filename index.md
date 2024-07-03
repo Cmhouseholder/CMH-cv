@@ -161,7 +161,7 @@ Member, **Phi Beta Kappa**, Salem, VA
 Member, **National Honor Society for First-Generation College Students** (Tri-Alpha)
 
 `2021`
-**Dr. George G. Peery Achievement Award** for both academic achievement and outstanding service to the Tri-Beta Society and the Biology department, Roanoke College.
+**Dr. George G. Peery Achievement Award**, Roanoke College.
 
 `2020` 	
 President, **Omicron Delta Kappa**
