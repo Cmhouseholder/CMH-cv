@@ -108,11 +108,14 @@ __FASEB Meeting on Plant Development__
 __Neurobiology Course: Synapses and Circuits (SYNC)__
 - *Marine Biological Labratory, Woods Hole, MA*
 - **Position**: Teaching Assistant
+- 
 
 `2021-2023`
 __Introductory to Principles of Cell and Molecular Biology__ 
 - *University of Maryland, College Park, MD* 
 - **Position**: Graduate Teaching Assistant
+- Taught approximately 250 undergraduate students, many of which have gone on to pursue undergraduate research positions. Skills included agarose gel electrophoresis, principles of PCR, and basic labratory instruments. 
+ 
 
 ## Workshops
 `2024`
@@ -177,6 +180,10 @@ Member, **Alpha Lambda Delta**, Roanoke College, Salem, VA
 
 
 ## Activities 
+`2023-2024` 
+__Chair Molecular and Cell Biology (MOCB) Retreat__
+- *University of Maryland - College Park, MD*
+
 `2024`
 Member, __Women in Bio (WIB)__ 
 
@@ -189,10 +196,10 @@ __American Association for the Advancement of Science (AAAS)__
 - *Washington, DC.*
 - Independently attended workshops on governmental fellowships, scientific communication, journalism, and grant writing.
 
-`2023`
+`2023 - Present`
 *Secretary*, __Graduate Student Association for Biological Sciences (GSA)__ 
 
-`2022`
+`2022 - Present`
 Member, __Society for Developmental Biology (SDB)__
 
 
