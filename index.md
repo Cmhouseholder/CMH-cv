@@ -145,8 +145,11 @@ __Fostering Independence and Promoting Professional Development__
 
 ## Honors/Awards
 
+`2024`
+**Best Graduate Student Talk Award**, Biological Sciences Molecular and Cellular Biology (MOCB) Retreat, University of Maryland - College Park, MD
+
 `2024` 
- **Best Graduate Student Poster Award**, Mid-Atlantic Regional Zebrafish Meeting (MARZ), Rutgers University, NJ
+**Best Graduate Student Poster Award**, Mid-Atlantic Regional Zebrafish Meeting (MARZ), Rutgers University, NJ
 
 `2024` 
 Scholarship, **Biological Sciences (BISI) Travel Award**, University of Maryland - College Park, MD
