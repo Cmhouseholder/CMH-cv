@@ -226,8 +226,6 @@ __American Association for the Advancement of Science (AAAS)__
 Member, __Society for Developmental Biology (SDB)__
 
 
-
-
 ## Outreach 
 
 `2023`
