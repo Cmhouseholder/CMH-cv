@@ -49,10 +49,10 @@ __Undergraduate Research Assistant__
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
 
-## Conference Presentations
+## Conference Presentations *(3 oral, 5 posters)*
 
 `2024`
-__Visual System Development Gordon Research Conference__
+__Visual System Development Gordon Research Conference (GRC)__
 - *Lucca (Barga), Italy*
 - **Poster**: Transcriptional regulation creates diversity within UV cone photoreceptors   
 - Authors: **Carinna Householder**, Juan Angueyra
@@ -105,10 +105,13 @@ __FASEB Meeting on Plant Development__
 
 ## Teaching Experience 
 `2024`
+__Invited Guest Lecturer in Biology Seminar Series__
+- *York College, York, PA*
+
+`2024`
 __Neurobiology Course: Synapses and Circuits (SYNC)__
 - *Marine Biological Labratory, Woods Hole, MA*
 - **Position**: Teaching Assistant
-- 
 
 `2021-2023`
 __Introductory to Principles of Cell and Molecular Biology__ 
@@ -118,6 +121,10 @@ __Introductory to Principles of Cell and Molecular Biology__
  
 
 ## Workshops
+`2024`
+__Enhancing Teaching through Peer Observation__
+- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
+
 `2024`
 __Decentering Whiteness__
 - Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
