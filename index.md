@@ -190,6 +190,12 @@ Member, **Alpha Lambda Delta**, Roanoke College, Salem, VA
 
 
 ## Activities 
+
+`2024` 
+__Emerging Leaders in Regenerative Biology and Development (ReBilD)__
+- *Mount Desert Island Biological Labratory (MDI-BL) - Bar Harbor, ME*
+- Successfully applied and attended innovative two-week regenerative biology training course that introduced invertebrate and vertebrate models such as C. elegans, planaria, Hydra, zebrafish, African turquoise killifish, axolotl, and spiny mouse, explored pathways controlling development and changes in regenerative potential. 
+
 `2023-2024` 
 __Chair Molecular and Cell Biology (MOCB) Retreat__
 - *University of Maryland - College Park, MD*
