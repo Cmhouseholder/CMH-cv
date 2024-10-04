@@ -207,7 +207,7 @@ __Meghan Hnilo__
 ## Professional Service and Associations
 
 `2023-2024` 
-__Chair Molecular and Cell Biology (MOCB) Retreat__
+__Chaired at Molecular and Cell Biology (MOCB) Retreat__
 - *University of Maryland - College Park, MD*
 
 `2024`
