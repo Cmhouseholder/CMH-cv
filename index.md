@@ -43,7 +43,6 @@ __Graduate Research Assistant__
 - Analyzed the effects of hypoxia on the reversal of visceral heart asymmetry during early development in *Astyanax mexicanus*. 
 
 
-
 `2018-2021`
 __Undergraduate Research Assistant__
 - *Dr. Leonard Pysh, Department of Biology, Roanoke College, Salem, VA*
@@ -120,11 +119,18 @@ __Introductory to Principles of Cell and Molecular Biology__
 - Taught approximately 250 undergraduate students, many of which have gone on to pursue undergraduate research positions. Skills included agarose gel electrophoresis, principles of PCR, and basic labratory instruments. 
  
 
+## Student Research Mentorship
+`2023-2024`
+__Leah Kwak__
+- *University of Maryland, College Park, MD*
+- Research Topic: Cloning *novel* trangenic lines that label interneuronal subtypes in the zebrafish retina. 
+
+`2023-2024`
+__Meghan Hnilo__
+- *University of Maryland, College Park, MD*
+- Research Program: UMD Undergraduate Biology Honors Program  
+
 ## Workshops 
-`2024` 
-__Emerging Leaders in Regenerative Biology and Development (ReBilD)__
-- *Mount Desert Island Biological Labratory (MDI-BL) - Bar Harbor, ME*
-- Successfully applied and attended innovative two-week regenerative biology training course that introduced invertebrate and vertebrate models such as C. elegans, Planaria, Hydra, Zebrafish, African turquoise killifish, Axolotl, and Spiny mouse, explored pathways controlling development and changes in regenerative potential.
 
 `2024`
 __Enhancing Teaching through Peer Observation__
@@ -192,17 +198,6 @@ Member, **Alpha Epsilon Delta**, Roanoke College, Salem, VA
 
 `2018`
 Member, **Alpha Lambda Delta**, Roanoke College, Salem, VA
-
-## Student Research Mentorship
-`2023-2024`
-__Leah Kwak__
-- *University of Maryland, College Park, MD*
-- Research Topic: Cloning *novel* trangenic lines that label interneuronal subtypes in the zebrafish retina. 
-
-`2023-2024`
-__Meghan Hnilo__
-- *University of Maryland, College Park, MD*
-- Research Program: UMD Undergraduate Biology Honors Program 
 
 ## Professional Service and Associations
 
