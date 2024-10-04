@@ -29,6 +29,7 @@ __Roanoke College, Salem, VA__
 
 Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologists, Molecular Biology, Gene Expression, Evolution, General Physics, General Chemistry (I&II), Organic Chemistry (I&II), Biochemistry I, Genetic Analysis, Nucleic Acids I, Cell Biology: Structure and Function, Immunology, Tropical Marine Biology (Baja, Mexico). 
 
+
 ## Research Experience
 
 `2023-Present`
@@ -49,7 +50,10 @@ __Undergraduate Research Assistant__
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
 
-## Conference Presentations *(3 oral, 5 posters)*
+## Presentations *(1 Invited, 3 Oral, 5 Posters)*
+`2024`
+__Invited Guest Lecturer in Biology Seminar Series__
+- *York College, York, PA*
 
 `2024`
 __Visual System Development Gordon Research Conference (GRC)__
@@ -105,10 +109,6 @@ __FASEB Meeting on Plant Development__
 
 ## Teaching Experience 
 `2024`
-__Invited Guest Lecturer in Biology Seminar Series__
-- *York College, York, PA*
-
-`2024`
 __Neurobiology Course: Synapses and Circuits (SYNC)__
 - *Marine Biological Labratory, Woods Hole, MA*
 - **Position**: Teaching Assistant
@@ -120,7 +120,12 @@ __Introductory to Principles of Cell and Molecular Biology__
 - Taught approximately 250 undergraduate students, many of which have gone on to pursue undergraduate research positions. Skills included agarose gel electrophoresis, principles of PCR, and basic labratory instruments. 
  
 
-## Workshops
+## Workshops 
+`2024` 
+__Emerging Leaders in Regenerative Biology and Development (ReBilD)__
+- *Mount Desert Island Biological Labratory (MDI-BL) - Bar Harbor, ME*
+- Successfully applied and attended innovative two-week regenerative biology training course that introduced invertebrate and vertebrate models such as C. elegans, Planaria, Hydra, Zebrafish, African turquoise killifish, Axolotl, and Spiny mouse, explored pathways controlling development and changes in regenerative potential.
+
 `2024`
 __Enhancing Teaching through Peer Observation__
 - Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
@@ -188,13 +193,18 @@ Member, **Alpha Epsilon Delta**, Roanoke College, Salem, VA
 `2018`
 Member, **Alpha Lambda Delta**, Roanoke College, Salem, VA
 
+## Student Research Mentorship
+`2023-2024`
+__Leah Kwak__
+- *University of Maryland, College Park, MD*
+- Research Topic: Cloning *novel* trangenic lines that label interneuronal subtypes in the zebrafish retina. 
 
-## Activities 
+`2023-2024`
+__Meghan Hnilo__
+- *University of Maryland, College Park, MD*
+- Research Program: UMD Undergraduate Biology Honors Program 
 
-`2024` 
-__Emerging Leaders in Regenerative Biology and Development (ReBilD)__
-- *Mount Desert Island Biological Labratory (MDI-BL) - Bar Harbor, ME*
-- Successfully applied and attended innovative two-week regenerative biology training course that introduced invertebrate and vertebrate models such as C. elegans, planaria, Hydra, zebrafish, African turquoise killifish, axolotl, and spiny mouse, explored pathways controlling development and changes in regenerative potential. 
+## Professional Service and Associations
 
 `2023-2024` 
 __Chair Molecular and Cell Biology (MOCB) Retreat__
@@ -202,10 +212,7 @@ __Chair Molecular and Cell Biology (MOCB) Retreat__
 
 `2024`
 Member, __Women in Bio (WIB)__ 
-
-`2023`
-__All Things Biology Podcast__
--  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my academic journey and experience working in research labs. Covered specific areas of interest including epigenetics, retinal organization and structure, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
+- *Washington Capital Region*
 
 `2023`
 __American Association for the Advancement of Science (AAAS)__
@@ -217,6 +224,15 @@ __American Association for the Advancement of Science (AAAS)__
 
 `2022 - Present`
 Member, __Society for Developmental Biology (SDB)__
+
+
+
+
+## Outreach 
+
+`2023`
+__All Things Biology Podcast__
+-  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my academic journey and experience working in research labs. Covered specific areas of interest including epigenetics, retinal organization and structure, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
 
 
 
