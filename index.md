@@ -130,7 +130,7 @@ __Meghan Hnilo__
 - *University of Maryland, College Park, MD*
 - Research Program: UMD Undergraduate Biology Honors Program  
 
-## Workshops 
+## Workshops Attended
 
 `2024`
 __Enhancing Teaching through Peer Observation__
@@ -222,12 +222,17 @@ Member, __Society for Developmental Biology (SDB)__
 
 
 ## Outreach 
+`2024`
+__ESO x BISI GSA x DEIWG Graduate Student Roundtable__
+- Spoke on an interdisciplinary panel for prospective undergraduate students interested in applying to graduate school. The panel answered questions about identifying the correct advisor and program for your goals . 
 
 `2023`
 __All Things Biology Podcast__
 -  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my academic journey and experience working in research labs. Covered specific areas of interest including epigenetics, retinal organization and structure, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
 
-
+`2021-2023`
+__Univeristy of Maryland Biological Sciences Orientation Panel__
+- Answered questions on a panel for incoming graduate students from the Univeristy of Maryland Biological Sciences graduate program. Represented and discussed the Molecular and Cellular Biology (MOCB) concentration area of the program and gave insights into the required courses, teaching assitantships, and tips on time management.  
 
 
 <!-- ### Footer
