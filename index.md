@@ -53,6 +53,7 @@ __Undergraduate Research Assistant__
 `2024`
 __Invited Guest Lecturer in Biology Seminar Series__
 - *York College, York, PA*
+- **Talk**: Transcriptional regulation creates diversity within UV cone photoreceptors
 
 `2024`
 __Visual System Development Gordon Research Conference (GRC)__
@@ -111,6 +112,7 @@ __FASEB Meeting on Plant Development__
 __Neurobiology Course: Synapses and Circuits (SYNC)__
 - *Marine Biological Labratory, Woods Hole, MA*
 - **Position**: Teaching Assistant
+- Mentored two graduate students through an intensive 2-week research project exploring the role of TBX2 transcription factors in photoreceptor ablation and regeneration in zebrafish.
 
 `2021-2023`
 __Introductory to Principles of Cell and Molecular Biology__ 
@@ -119,18 +121,23 @@ __Introductory to Principles of Cell and Molecular Biology__
 - Taught approximately 250 undergraduate students, many of which have gone on to pursue undergraduate research positions. Skills included agarose gel electrophoresis, principles of PCR, and basic labratory instruments. 
  
 
-## Student Research Mentorship
-`2023-2024`
+## Student Research Mentorship 
+`2025`
+__Annabella Rinaldi__
+- *University of Maryland, College Park, MD*
+- Research Topic: Exploring the role of shared transcription factors used to distincguish and generate between rods and cones.   
+
+`2023-Present`
 __Leah Kwak__
 - *University of Maryland, College Park, MD*
 - Research Topic: Cloning *novel* trangenic lines that label interneuronal subtypes in the zebrafish retina. 
 
-`2023-2024`
+`2023-Present`
 __Meghan Hnilo__
 - *University of Maryland, College Park, MD*
 - Research Program: UMD Undergraduate Biology Honors Program  
 
-## Workshops Attended
+## Teaching and Mentoring Workshops Attended
 
 `2024`
 __Enhancing Teaching through Peer Observation__
@@ -201,11 +208,11 @@ Member, **Alpha Lambda Delta**, Roanoke College, Salem, VA
 
 ## Professional Service and Associations
 
-`2023-2024` 
+`2023 - 2024` 
 __Chaired at Molecular and Cell Biology (MOCB) Retreat__
 - *University of Maryland - College Park, MD*
 
-`2024`
+`2024 - Present`
 Member, __Women in Bio (WIB)__ 
 - *Washington Capital Region*
 
@@ -237,6 +244,6 @@ __Univeristy of Maryland Biological Sciences Orientation Panel__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2025 -->
 
 
