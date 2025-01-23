@@ -53,6 +53,7 @@ __Undergraduate Research Assistant__
 `2024`
 __Invited Guest Lecturer in Biology Seminar Series__
 - *York College, York, PA*
+- Provided a general overview of genetic regulation in cellular development and discussed my scientific journey into biological research.
 - **Talk**: Transcriptional regulation creates diversity within UV cone photoreceptors
 
 `2024`
