@@ -126,7 +126,7 @@ __Introductory to Principles of Cell and Molecular Biology__
 `2025`
 __Annabella Rinaldi__
 - *University of Maryland, College Park, MD*
-- Research Topic: Exploring the role of shared transcription factors used to distincguish and generate between rods and cones.   
+- Research Topic: Exploring the role of shared transcription factors used to distinguish and generate between rods and cones.   
 
 `2023-Present`
 __Leah Kwak__
