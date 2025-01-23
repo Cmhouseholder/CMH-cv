@@ -9,10 +9,10 @@ Cell/Molecular Biology PhD Candidate | Graduate Research Assistant at University
 <a href="chouseho@umd.edu">chouseho@umd.edu</a>
 | <a href="https://www.linkedin.com/in/carinna-householder/">LinkedIn</a>
 |  <a href="https://orcid.org/0000-0002-5783-6197">ORCID:  0000-0002-5783-6197</a>
+<a href="https://chouseho.wixsite.com/cmhouseholder">Personal Website</a>
 </div>
 
 --- 
-
 
 ## Education
 
@@ -29,6 +29,12 @@ __Roanoke College, Salem, VA__
 
 Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologists, Molecular Biology, Gene Expression, Evolution, General Physics, General Chemistry (I&II), Organic Chemistry (I&II), Biochemistry I, Genetic Analysis, Nucleic Acids I, Cell Biology: Structure and Function, Immunology, Tropical Marine Biology (Baja, Mexico). 
 
+## Attended Research Training 
+
+`2024`
+__Emerging Leaders in Regenerative Biology and Development (ReBilD) Program__
+ - *Mount desert Island Biological Labratory (MDI-BL), Bar Harbor, ME*
+- Attended an intensive 2-week regenerative biology course at the Mount Desert Island - Biological Labratory (MDI-BL). Interacted with leading experts in axolotls, zebrafish, and planarian regeneration both in the lab and through diadactic course material. 
 
 ## Research Experience
 
