@@ -30,7 +30,6 @@ __Roanoke College, Salem, VA__
 Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologists, Molecular Biology, Gene Expression, Evolution, General Physics, General Chemistry (I&II), Organic Chemistry (I&II), Biochemistry I, Genetic Analysis, Nucleic Acids I, Cell Biology: Structure and Function, Immunology, Tropical Marine Biology (Baja, Mexico). 
 
 ## Attended Research Training 
-
 `2024`
 __Emerging Leaders in Regenerative Biology and Development (ReBilD) Program__
  - *Mount desert Island Biological Labratory (MDI-BL), Bar Harbor, ME*
@@ -129,7 +128,7 @@ __Introductory to Principles of Cell and Molecular Biology__
  
 
 ## Student Research Mentorship *(3 undergraduate researchers)*
-`2025`
+`2025-Present`
 __Annabella Rinaldi__
 - *University of Maryland, College Park, MD*
 - Research Topic: Exploring the role of shared transcription factors used to distinguish and generate between rods and cones.   
