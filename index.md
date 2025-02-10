@@ -99,19 +99,6 @@ __Molecular and Cellular Biology Seminar Series__
 - **Talk**: Characterizing the role of hypoxia on heart reversal in surface fish and cavefish, _Astyanax mexicanus_
 - Authors: **Carinna Householder**, William R Jeffery, Juan Angueyra
 
-`2021`
-__University of Missouri__
-- *Online*
-- Exposure of light to developing roots results in upregulation of monolignol biosynthesis genes in Arabidopsis thaliana. 
-- **Poster**: Monolignol Gene Expression of Arabidopsis thaliana Root Cells Grown in the Dark
-- Authors: **Carinna Householder**, Leonard Pysh
-
-`2019`
-__FASEB Meeting on Plant Development__
-- *Olean, NY*
-- Cellulose deficiency causes an upregulation of monolignol biosynthesis genes in the Arabidopsis thaliana. 
-- **Poster**: Role for Monolignol Synthesis in the Expanded Root Phenotype of Cellulose-Deficient Arabidopsis thaliana Mutants
-- Authors: Leonard Pysh, Matthew Watts, **Carinna Householder**, and Frankie Sefcik
 
 ## Teaching Experience 
 `2024`
@@ -146,31 +133,13 @@ __Meghan Hnilo__
 ## Teaching and Mentoring Workshops Attended
 
 `2024`
-__Enhancing Teaching through Peer Observation__
-- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
-
-`2024`
-__Decentering Whiteness__
-- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
-
-`2024`
-__Getting Started with Your Teaching Philosophy Statement__
+__Teaching Workshops__
+Enhancing Teaching through Peer Observation, Decentering Whiteness, Getting Started with Your Teaching Philosophy Statement
 - Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
 
 `2022`
-__Introductions and Maintaining Effective Communication__
-- University of Maryland Graduate School, *University of Maryland, College Park, MD*
-
-`2022`
-__Aligning Expectations and Assessing Understanding__
-- University of Maryland Graduate School, *University of Maryland, College Park, MD*
-
-`2022`
-__Addressing Equity and Inclusion__
-- University of Maryland Graduate School, *University of Maryland, College Park, MD*
-
-`2022`
-__Fostering Independence and Promoting Professional Development__
+__Mentoring Workshop Series__
+Introductions and Maintaining Effective Communication, Aligning Expectations and Assessing Understanding, Addressing Equity and Inclusion, Fostering Independence and Promoting Professional Development__
 - University of Maryland Graduate School, *University of Maryland, College Park, MD*
 
 
