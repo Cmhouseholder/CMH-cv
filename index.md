@@ -217,11 +217,6 @@ __ESO x BISI GSA x DEIWG Graduate Student Roundtable__
 __All Things Biology Podcast__
 -  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my academic journey and experience working in research labs. Covered specific areas of interest including epigenetics, retinal organization and structure, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
 
-`2021-2023`
-__Univeristy of Maryland Biological Sciences Orientation Panel__
-- Answered questions on a panel for incoming graduate students from the Univeristy of Maryland Biological Sciences graduate program. Represented and discussed the Molecular and Cellular Biology (MOCB) concentration area of the program and gave insights into the required courses, teaching assitantships, and tips on time management.  
-
-
 <!-- ### Footer
 
 Last updated: Jan 2025 -->
