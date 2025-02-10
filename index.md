@@ -99,6 +99,19 @@ __Molecular and Cellular Biology Seminar Series__
 - **Talk**: Characterizing the role of hypoxia on heart reversal in surface fish and cavefish, _Astyanax mexicanus_
 - Authors: **Carinna Householder**, William R Jeffery, Juan Angueyra
 
+`2021`
+__University of Missouri__
+- *Online*
+- Exposure of light to developing roots results in upregulation of monolignol biosynthesis genes in Arabidopsis thaliana. 
+- **Poster**: Monolignol Gene Expression of Arabidopsis thaliana Root Cells Grown in the Dark
+- Authors: **Carinna Householder**, Leonard Pysh
+
+`2019`
+__FASEB Meeting on Plant Development__
+- *Olean, NY*
+- Cellulose deficiency causes an upregulation of monolignol biosynthesis genes in the Arabidopsis thaliana. 
+- **Poster**: Role for Monolignol Synthesis in the Expanded Root Phenotype of Cellulose-Deficient Arabidopsis thaliana Mutants
+- Authors: Leonard Pysh, Matthew Watts, **Carinna Householder**, and Frankie Sefcik
 
 ## Teaching Experience 
 `2024`
@@ -114,7 +127,7 @@ __Introductory to Principles of Cell and Molecular Biology__
 - Taught approximately 250 undergraduate students, many of which have gone on to pursue undergraduate research positions. Skills included agarose gel electrophoresis, principles of PCR, and basic labratory instruments. 
  
 
-## Student Research Mentorship *(3 Undergraduate Researchers)*
+## Student Research Mentorship *(3 undergraduate researchers)*
 `2025-Present`
 __Annabella Rinaldi__
 - *University of Maryland, College Park, MD*
@@ -133,19 +146,32 @@ __Meghan Hnilo__
 ## Teaching and Mentoring Workshops Attended
 
 `2024`
-__Teaching Workshops__
-- Enhancing Teaching through Peer Observation
-- Decentering Whiteness
-- Getting Started with Your Teaching Philosophy Statement
-- *Teaching and Learning Transformation Center,* *University of Maryland, College Park, MD*
+__Enhancing Teaching through Peer Observation__
+- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
+
+`2024`
+__Decentering Whiteness__
+- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
+
+`2024`
+__Getting Started with Your Teaching Philosophy Statement__
+- Teaching and Learning Transformation Center, *University of Maryland, College Park, MD*
 
 `2022`
-__Mentoring Workshop Series__
-   - Introductions and Maintaining Effective Communication
-   - Aligning Expectations and Assessing Understanding
-   - Addressing Equity and Inclusion
-   - Fostering Independence and Promoting Professional Development
-- *University of Maryland Graduate School, *University of Maryland, College Park, MD*
+__Introductions and Maintaining Effective Communication__
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
+
+`2022`
+__Aligning Expectations and Assessing Understanding__
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
+
+`2022`
+__Addressing Equity and Inclusion__
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
+
+`2022`
+__Fostering Independence and Promoting Professional Development__
+- University of Maryland Graduate School, *University of Maryland, College Park, MD*
 
 
 ## Honors/Awards
@@ -217,8 +243,12 @@ __ESO x BISI GSA x DEIWG Graduate Student Roundtable__
 __All Things Biology Podcast__
 -  Featured on the pilot episode of an emerging podcast targeting early career scientists. Openly discussed my academic journey and experience working in research labs. Covered specific areas of interest including epigenetics, retinal organization and structure, and avenues of regenerative therapeutics to combat degenerative retinal diseases.
 
+`2021-2023`
+__Univeristy of Maryland Biological Sciences Orientation Panel__
+- Answered questions on a panel for incoming graduate students from the Univeristy of Maryland Biological Sciences graduate program. Represented and discussed the Molecular and Cellular Biology (MOCB) concentration area of the program and gave insights into the required courses, teaching assitantships, and tips on time management.  
+
+
 <!-- ### Footer
 
 Last updated: Jan 2025 -->
-
 
