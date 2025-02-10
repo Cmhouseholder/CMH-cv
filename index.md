@@ -139,7 +139,7 @@ Enhancing Teaching through Peer Observation, Decentering Whiteness, Getting Star
 
 `2022`
 __Mentoring Workshop Series__
-Introductions and Maintaining Effective Communication, Aligning Expectations and Assessing Understanding, Addressing Equity and Inclusion, Fostering Independence and Promoting Professional Development__
+Introductions and Maintaining Effective Communication, Aligning Expectations and Assessing Understanding, Addressing Equity and Inclusion, Fostering Independence and Promoting Professional Development
 - University of Maryland Graduate School, *University of Maryland, College Park, MD*
 
 
