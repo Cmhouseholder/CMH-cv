@@ -114,7 +114,7 @@ __Introductory to Principles of Cell and Molecular Biology__
 - Taught approximately 250 undergraduate students, many of which have gone on to pursue undergraduate research positions. Skills included agarose gel electrophoresis, principles of PCR, and basic labratory instruments. 
  
 
-## Student Research Mentorship *(3 undergraduate researchers)*
+## Student Research Mentorship *(3 undergraduate)*
 `2025-Present`
 __Annabella Rinaldi__
 - *University of Maryland, College Park, MD*
