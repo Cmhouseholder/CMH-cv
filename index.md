@@ -54,7 +54,12 @@ __Undergraduate Research Assistant__
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
 
-## Presentations *(1 Invited, 3 Oral, 5 Posters)*
+## Presentations *(1 Invited, 3 Oral, 6 Posters)*
+`2025`
+__Rising Stars In Cell Biology Symposium__
+- *Washington, DC*
+- **Poster**: Transcriptional regulation creates diversity within UV cone photoreceptors
+
 `2024`
 __Invited Guest Lecturer in Biology Seminar Series__
 - *York College, York, PA*
@@ -127,7 +132,12 @@ __Introductory to Principles of Cell and Molecular Biology__
 - Taught approximately 250 undergraduate students, many of which have gone on to pursue undergraduate research positions. Skills included agarose gel electrophoresis, principles of PCR, and basic labratory instruments. 
  
 
-## Student Research Mentorship *(3 undergraduate researchers)*
+## Student Research Mentorship *(4 undergraduate researchers)*
+`2025-Present`
+__Eleni Antoniades__
+- *University of Maryland, College Park, MD*
+- Research Topic: 
+
 `2025-Present`
 __Annabella Rinaldi__
 - *University of Maryland, College Park, MD*
