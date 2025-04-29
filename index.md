@@ -119,6 +119,12 @@ __FASEB Meeting on Plant Development__
 - Authors: Leonard Pysh, Matthew Watts, **Carinna Householder**, and Frankie Sefcik
 
 ## Teaching Experience 
+`2025`
+__Society for Developmental Biology Course: GetHIRED!__
+- *Online*
+- **Position**: Course Assistant
+- Ran a virtual 12-week course to help postdocs prepare materials for going on the academic job market under the guidance of Dr. Nicole Theodosiu & Dr. Vicky Prince. 
+
 `2024`
 __Neurobiology Course: Synapses and Circuits (SYNC)__
 - *Marine Biological Labratory, Woods Hole, MA*
