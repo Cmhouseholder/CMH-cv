@@ -192,6 +192,9 @@ __Fostering Independence and Promoting Professional Development__
 
 ## Honors/Awards
 
+`2025`
+**Dr. Eugenie Clark Scholarship**, Department of Biology Endowed Fellowships, University of Maryland - College Park, MD
+
 `2024`
 **Best Graduate Student Talk Award**, Biological Sciences Molecular and Cellular Biology (MOCB) Retreat, University of Maryland - College Park, MD
 
