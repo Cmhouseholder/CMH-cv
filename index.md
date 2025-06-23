@@ -39,7 +39,7 @@ __Emerging Leaders in Regenerative Biology and Development (ReBilD) Program__
 
 `2023-Present`
 __Graduate Research Assistant__
- - *Dr. Juan Angueyra, Department of Biology, University of Maryland, College Park, MD*
+ - *Dr. Juan M Angueyra, Department of Biology, University of Maryland, College Park, MD*
 - Characterized the transcriptional regulation of retinal progenitor cells mediated through two transcription factors, _tbx2a_ & _tbx2b_ in Danio rerio. 
 
 `2022-2023 `
@@ -59,12 +59,14 @@ __Undergraduate Research Assistant__
 __Rising Stars In Cell Biology Symposium__
 - *Washington, DC*
 - **Poster**: Transcriptional regulation creates diversity within UV cone photoreceptors
+- Authors: **Carinna Householder**, Juan Angueyra
 
 `2024`
 __Invited Guest Lecturer in Biology Seminar Series__
 - *York College, York, PA*
 - Provided a general overview of genetic regulation in cellular development and discussed my scientific journey into biological research.
 - **Talk**: Transcriptional regulation creates diversity within UV cone photoreceptors
+- Authors: **Carinna Householder**, Juan Angueyra
 
 `2024`
 __Visual System Development Gordon Research Conference (GRC)__
@@ -142,12 +144,13 @@ __Introductory to Principles of Cell and Molecular Biology__
 `2025-Present`
 __Eleni Antoniades__
 - *University of Maryland, College Park, MD*
-- Research Topic: 
+- Research Topic: Exploring the role of a rod-specific transcription factor (Nr2e3) to distinguish between and generate rods and cones.
 
 `2025-Present`
 __Annabella Rinaldi__
 - *University of Maryland, College Park, MD*
-- Research Topic: Exploring the role of shared transcription factors used to distinguish and generate between rods and cones.   
+- Research Topic: Creating novel mutant lines to understand the role of a TF to generate photoreceptor subtypes using a complementation experiment.    
+- Research Program: UMD Undergraduate Biology Honors Program 
 
 `2023-Present`
 __Leah Kwak__
@@ -157,6 +160,7 @@ __Leah Kwak__
 `2023-Present`
 __Meghan Hnilo__
 - *University of Maryland, College Park, MD*
+- Research Topic: The Influence of Early Synaptic Connectivity on the Generation of Retinal Cell Subtypes
 - Research Program: UMD Undergraduate Biology Honors Program  
 
 ## Teaching and Mentoring Workshops Attended
