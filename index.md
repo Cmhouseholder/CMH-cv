@@ -122,6 +122,12 @@ __FASEB Meeting on Plant Development__
 
 ## Teaching Experience 
 `2025`
+__Neurobiology Course: Synapses and Circuits (SYNC)__
+- *Marine Biological Labratory, Woods Hole, MA*
+- **Position**: Teaching Assistant
+- Mentored two graduate students through an intensive 2-week research project exploring disruption of photoreceptor subtypes and assessing functional recovery of residual circuits.
+
+`2025`
 __Society for Developmental Biology Course: GetHIRED!__
 - *Online*
 - **Position**: Course Assistant
@@ -131,7 +137,7 @@ __Society for Developmental Biology Course: GetHIRED!__
 __Neurobiology Course: Synapses and Circuits (SYNC)__
 - *Marine Biological Labratory, Woods Hole, MA*
 - **Position**: Teaching Assistant
-- Mentored two graduate students through an intensive 2-week research project exploring the role of TBX2 transcription factors in photoreceptor ablation and regeneration in zebrafish.
+- Mentored two graduate students (Malissa Ramsukh & Jovan Grujicic) through an intensive 2-week research project exploring the role of TBX2 transcription factors in photoreceptor ablation and regeneration in zebrafish.
 
 `2021-2023`
 __Introductory to Principles of Cell and Molecular Biology__ 
