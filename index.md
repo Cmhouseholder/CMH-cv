@@ -28,7 +28,7 @@ __Roanoke College, Salem, VA__
 ## Funding 
 `2025`
 __1F31EY038082-01__
- - *Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31),NEI*
+ - *Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31), NEI*
 - Attended an intensive 2-week regenerative biology course at the Mount Desert Island - Biological Labratory (MDI-BL). Interacted with leading experts in axolotls, zebrafish, and planarian regeneration both in the lab and through didactic course material. 
 
 
