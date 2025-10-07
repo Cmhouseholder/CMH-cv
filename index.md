@@ -40,7 +40,6 @@ Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologist
 `2024`
 __Emerging Leaders in Regenerative Biology and Development (ReBilD) Program__
  - *Mount desert Island Biological Labratory (MDI-BL), Bar Harbor, ME*
-- Attended an intensive 2-week regenerative biology course at the Mount Desert Island - Biological Labratory (MDI-BL). Interacted with leading experts in axolotls, zebrafish, and planarian regeneration both in the lab and through didactic course material. 
 
 ## Research Experience
 
