@@ -25,6 +25,13 @@ __Roanoke College, Salem, VA__
 - B.S. in Biology 
 - *magna cum laude* 
 
+## Funding 
+`2025`
+__1F31EY038082-01__
+ - *Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31),NEI*
+- Attended an intensive 2-week regenerative biology course at the Mount Desert Island - Biological Labratory (MDI-BL). Interacted with leading experts in axolotls, zebrafish, and planarian regeneration both in the lab and through didactic course material. 
+
+
 ## Relevant Coursework
 
 Biology of Vision, Genetics, Cell Biology, Statistics and Modeling for Biologists, Molecular Biology, Gene Expression, Evolution, General Physics, General Chemistry (I&II), Organic Chemistry (I&II), Biochemistry I, Genetic Analysis, Nucleic Acids I, Cell Biology: Structure and Function, Immunology, Tropical Marine Biology (Baja, Mexico). 
@@ -125,7 +132,7 @@ __FASEB Meeting on Plant Development__
 __Neurobiology Course: Synapses and Circuits (SYNC)__
 - *Marine Biological Labratory, Woods Hole, MA*
 - **Position**: Teaching Assistant
-- Mentored two graduate students through an intensive 2-week research project exploring disruption of photoreceptor subtypes and assessing functional recovery of residual circuits.
+- Mentored two graduate students (Nicole Ferugson & Alanis Delgado-Suarez) through an intensive 2-week research project exploring disruption of photoreceptor subtypes and assessing functional recovery of residual circuits.
 
 `2025`
 __Society for Developmental Biology Course: GetHIRED!__
@@ -158,12 +165,12 @@ __Annabella Rinaldi__
 - Research Topic: Creating novel mutant lines to understand the role of a TF to generate photoreceptor subtypes using a complementation experiment.    
 - Research Program: UMD Undergraduate Biology Honors Program 
 
-`2023-Present`
+`2023-2025`
 __Leah Kwak__
 - *University of Maryland, College Park, MD*
 - Research Topic: Cloning *novel* trangenic lines that label interneuronal subtypes in the zebrafish retina. 
 
-`2023-Present`
+`2023-2025`
 __Meghan Hnilo__
 - *University of Maryland, College Park, MD*
 - Research Topic: The Influence of Early Synaptic Connectivity on the Generation of Retinal Cell Subtypes
