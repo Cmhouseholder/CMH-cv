@@ -29,7 +29,6 @@ __Roanoke College, Salem, VA__
 `2025`
 __1F31EY038082-01__
  - *Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31), NEI*
-- Transcriptional regulation of photoreceptor identity and function
 
 
 ## Relevant Coursework
