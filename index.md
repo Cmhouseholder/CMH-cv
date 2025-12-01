@@ -29,7 +29,7 @@ __Roanoke College, Salem, VA__
 `2025`
 __1F31EY038082-01__
  - *Ruth L. Kirschstein National Research Service Award (NRSA) Individual Predoctoral Fellowship (Parent F31), NEI*
-- Attended an intensive 2-week regenerative biology course at the Mount Desert Island - Biological Labratory (MDI-BL). Interacted with leading experts in axolotls, zebrafish, and planarian regeneration both in the lab and through didactic course material. 
+- Transcriptional regulation of photoreceptor identity and function
 
 
 ## Relevant Coursework
@@ -157,6 +157,7 @@ __Introductory to Principles of Cell and Molecular Biology__
 __Eleni Antoniades__
 - *University of Maryland, College Park, MD*
 - Research Topic: Exploring the role of a rod-specific transcription factor (Nr2e3) to distinguish between and generate rods and cones.
+- Research Program: UMD Undergraduate Biology Honors Program 
 
 `2025-Present`
 __Annabella Rinaldi__
@@ -262,7 +263,7 @@ __American Association for the Advancement of Science (AAAS)__
 - *Washington, DC.*
 - Independently attended workshops on governmental fellowships, scientific communication, journalism, and grant writing.
 
-`2023 - Present`
+`2023 - 2025`
 *Secretary*, __Graduate Student Association for Biological Sciences (GSA)__ 
 
 `2022 - Present`
