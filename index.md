@@ -278,6 +278,8 @@ __Mentoring of undergraduate researchers by junior scientists__
 
 `2024`
 __ESO x BISI GSA x DEIWG Graduate Student Roundtable__
+- **Panelist**
+- *University of Maryland*
 - Spoke on an interdisciplinary panel for prospective undergraduate students interested in applying to graduate school. The panel answered questions about identifying the correct advisor and program for your goals . 
 
 `2023`
@@ -286,6 +288,8 @@ __All Things Biology Podcast__
 
 `2021-2023`
 __Univeristy of Maryland Biological Sciences Orientation Panel__
+- **Panelist**
+- *Biological Sciences Graduate Program, University of Maryland*
 - Answered questions on a panel for incoming graduate students from the Univeristy of Maryland Biological Sciences graduate program. Represented and discussed the Molecular and Cellular Biology (MOCB) concentration area of the program and gave insights into the required courses, teaching assitantships, and tips on time management.  
 
 
