@@ -60,6 +60,12 @@ __Undergraduate Research Assistant__
 
 
 ## Presentations *(1 Invited, 3 Oral, 6 Posters)*
+`2026`
+__Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
+- *Philadelphia, PA*
+- **Poster**: Transcriptional regulation by Tbx2 paralogs creates diversity within photoreceptor subtypes
+- Authors: **Carinna Householder**, JAutumn Lee, Sofia Apgar, Juan Angueyra
+
 `2025`
 __Rising Stars In Cell Biology Symposium__
 - *Washington, DC*
