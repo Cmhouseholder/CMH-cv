@@ -59,7 +59,7 @@ __Undergraduate Research Assistant__
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
 
-## Presentations *(1 Invited, 3 Oral, 6 Posters)*
+## Presentations *(1 Invited, 3 Oral, 7 Posters)*
 `2026`
 __Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
 - *Philadelphia, PA*
