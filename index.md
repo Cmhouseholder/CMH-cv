@@ -67,7 +67,7 @@ __[Webvision](https://www.webvision.pitt.edu/) Chapter: Transcription factors in
 `Expected 2026 `
 __Transcriptional regulation by TBX2 paralogs creates diversity within photoreceptor subtypes__
 - Authors: **Carinna Householder**, Autumn Lee, Sofia Apgar, Annabella Rinaldi, Juan Angueyra
-- First-author manuscript in progress describing the role for *tbx2a* and *tbx2b* generating all five photorecepter subtypes and functional conseqeunces in behavior.  
+- First-author manuscript in progress that characterizes the role for *tbx2* genes in photorecepter generation and functional conseqeunces when photoreceptors imporperly form in development.  
 
 ## Presentations *(1 Invited, 3 Oral, 7 Posters)*
 `2026`
