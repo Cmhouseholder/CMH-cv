@@ -16,7 +16,7 @@ Cell/Molecular Biology PhD Candidate | Graduate Research Assistant at University
 
 ## Education
 
-`Expected 2026`
+`Expected 2027`
 __University of Maryland, College Park, MD__
 - Ph.D. in Biological Sciences - Molecular & Cellular Biology
 
