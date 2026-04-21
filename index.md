@@ -85,7 +85,6 @@ __Rising Stars In Cell Biology Symposium__
 `2024`
 __Invited Guest Lecturer in Biology Seminar Series__
 - *York College, York, PA*
-- Provided a general overview of genetic regulation in cellular development and discussed my scientific journey into biological research.
 - **Talk**: Transcriptional regulation creates diversity within UV cone photoreceptors
 - Authors: **Carinna Householder**, Juan Angueyra
 
@@ -116,28 +115,24 @@ __Molecular and Cellular Biology 2023 Retreat__
 `2023`
 __Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
 - *National Institute of Health (NIH), Bethesda, MD*
--  Upstream regulation and downstream processing of Tbx2 paralogs diverge in function within a single cell to contribute to final fate decisions
 - **Poster**: Characterizing Functionally Distinct Roles of Tbx2 Paralogs in Final UV Cone Specification
 - Authors: **Carinna Householder**, Juan Angueyra  
 
 `2023`
 __Molecular and Cellular Biology Seminar Series__
 - *University of Maryland, College Park, MD*
--  Hypoxia alters left-right visceral heart asymmetry and organization in early heart development. 
 - **Talk**: Characterizing the role of hypoxia on heart reversal in surface fish and cavefish, _Astyanax mexicanus_
 - Authors: **Carinna Householder**, William R Jeffery, Juan Angueyra
 
 `2021`
 __University of Missouri__
 - *Online*
-- Exposure of light to developing roots results in upregulation of monolignol biosynthesis genes in Arabidopsis thaliana. 
 - **Poster**: Monolignol Gene Expression of Arabidopsis thaliana Root Cells Grown in the Dark
 - Authors: **Carinna Householder**, Leonard Pysh
 
 `2019`
 __FASEB Meeting on Plant Development__
 - *Olean, NY*
-- Cellulose deficiency causes an upregulation of monolignol biosynthesis genes in the Arabidopsis thaliana. 
 - **Poster**: Role for Monolignol Synthesis in the Expanded Root Phenotype of Cellulose-Deficient Arabidopsis thaliana Mutants
 - Authors: Leonard Pysh, Matthew Watts, **Carinna Householder**, and Frankie Sefcik
 
