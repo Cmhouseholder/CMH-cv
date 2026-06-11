@@ -64,12 +64,18 @@ __[Webvision](https://www.webvision.pitt.edu/) Chapter: Transcription factors in
 - Authors: **Carinna Householder**, Juan Angueyra
 - Manuscript in progress for a co-authored chapter reviewing how Transcription Factors are utilized in photoreceptor development across species and through evolution. 
 
-`Expected 2026 `
+`Expected 2026`
 __Transcriptional regulation by TBX2 paralogs creates diversity within photoreceptor subtypes__
 - Authors: **Carinna Householder**, Autumn Lee, Sofia Apgar, Annabella Rinaldi, Juan Angueyra
 - First-author manuscript in progress that characterizes the role for *tbx2* genes in photorecepter generation and behavioral consequences when photoreceptors imporperly form in development.  
 
 ## Presentations *(1 Invited, 3 Oral, 7 Posters)*
+`2026`
+__Mid-Atlantic Society for Developmental Biology (MASDB) Meeting__
+- *Pittsburgh, PA*
+- **Talk**: Transcriptional regulation by Tbx2 paralogs creates diversity within photoreceptor subtypes
+- Authors: **Carinna Householder**, Autumn Lee, Sofia Apgar, Juan Angueyra
+
 `2026`
 __Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
 - *Philadelphia, PA*
@@ -218,6 +224,9 @@ __Fostering Independence and Promoting Professional Development__
 
 
 ## Honors/Awards
+
+`2026`
+**Best Graduate Student Talk Award**, Mid-Atlantic Society for Developmental Biology, University of Maryland - College Park, MD
 
 `2025`
 **Dr. Eugenie Clark Scholarship**, Department of Biology Endowed Fellowships, University of Maryland - College Park, MD
