@@ -69,7 +69,25 @@ __Transcriptional regulation by TBX2 paralogs creates diversity within photorece
 - Authors: **Carinna Householder**, Autumn Lee, Sofia Apgar, Annabella Rinaldi, Juan Angueyra
 - First-author manuscript in progress that characterizes the role for *tbx2* genes in photorecepter generation and behavioral consequences when photoreceptors imporperly form in development.  
 
-## Presentations *(1 Invited, 3 Oral, 7 Posters)*
+## Presentations *(2 Invited, 3 Oral, 7 Posters)*
+`2026`
+__Invited Guest Presenter for Dean Varshney's CMNS Board of Visitors Meeting__
+- *University of Maryland, College Park, MD*
+- **Talk**: Transcriptional regulation by Tbx2 paralogs creates diversity within photoreceptor subtypes  
+- Authors: **Carinna Householder**, Autumn Lee, Annabella Rinadli, Sofia Apgar, Juan Angueyra
+
+`2026`
+__Visual System Development Gordon Research Conference (GRC)__
+- *Newry, ME*
+- **Talk**: Transcriptional regulation by Tbx2 paralogs creates diversity within photoreceptor subtypes  
+- Authors: **Carinna Householder**, Autumn Lee, Annabella Rinadli, Sofia Apgar, Juan Angueyra
+
+`2026`
+__Visual System Development Gordon Research Seminar (GRS)__
+- *Newry, ME*
+- **Talk**: Transcriptional regulation by Tbx2 paralogs creates diversity within photoreceptor subtypes  
+- Authors: **Carinna Householder**, Autumn Lee, Annabella Rinadli, Sofia Apgar, Juan Angueyra
+
 `2026`
 __Mid-Atlantic Society for Developmental Biology (MASDB) Meeting__
 - *Pittsburgh, PA*
@@ -128,7 +146,7 @@ __Mid-Atlantic Regional Zebrafish (MARZ) Meeting__
 __Molecular and Cellular Biology Seminar Series__
 - *University of Maryland, College Park, MD*
 - **Talk**: Characterizing the role of hypoxia on heart reversal in surface fish and cavefish, _Astyanax mexicanus_
-- Authors: **Carinna Householder**, William R Jeffery, Juan Angueyra
+- Authors: **Carinna Householder**, William R Jeffery
 
 `2021`
 __University of Missouri__
