@@ -69,7 +69,7 @@ __Transcriptional regulation by TBX2 paralogs creates diversity within photorece
 - Authors: **Carinna Householder**, Autumn Lee, Sofia Apgar, Annabella Rinaldi, Juan Angueyra
 - First-author manuscript in progress that characterizes the role for *tbx2* genes in photorecepter generation and behavioral consequences when photoreceptors imporperly form in development.  
 
-## Presentations *(2 Invited, 3 Oral, 7 Posters)*
+## Presentations *(2 Invited, 4 Oral, 8 Posters)*
 `2026`
 __Invited Guest Presenter for Dean Varshney's CMNS Board of Visitors Meeting__
 - *University of Maryland, College Park, MD*
