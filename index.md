@@ -58,7 +58,7 @@ __Undergraduate Research Assistant__
 - *Dr. Leonard Pysh, Department of Biology, Roanoke College, Salem, VA*
 - Analyzed Lignin gene expression of transcriptional reporter lines of in the roots of cellulose deficient Arabidopsis plants. Discovered that roots grown in light had increased transcripts of monolignol synthesis genes and hypothesized to be a defense mechanism for _A. thaliana_.
 
-## Publications *(2 in preparation)*  
+## Publications *(2 under review)*  
 `Expected 2026 `
 __[Webvision](https://www.webvision.pitt.edu/) Chapter: Transcription factors in photoreceptor development__
 - Authors: **Carinna Householder**, Juan Angueyra
@@ -67,7 +67,8 @@ __[Webvision](https://www.webvision.pitt.edu/) Chapter: Transcription factors in
 `Expected 2026`
 __Transcriptional regulation by TBX2 paralogs creates diversity within photoreceptor subtypes__
 - Authors: **Carinna Householder**, Autumn Lee, Sofia Apgar, Annabella Rinaldi, Juan Angueyra
-- First-author manuscript in progress that characterizes the role for *tbx2* genes in photorecepter generation and behavioral consequences when photoreceptors imporperly form in development.  
+- First-author manuscript in progress that characterizes the role for *tbx2* genes in photorecepter generation and behavioral consequences when photoreceptors imporperly form in development. 
+- DOI: https://doi.org/10.64898/2026.07.20.739565
 
 ## Presentations *(2 Invited, 4 Oral, 8 Posters)*
 `2026`
